@@ -1,5 +1,5 @@
 # PNFOS
-OPEN SOURCE FREE TO USE MADE BY IRFAN
+Mint Linux Modfided by Irfan
 
 # PNFlabs
 Created by Irfan.
