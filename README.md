@@ -1,8 +1,8 @@
 # PNFOS
 OPEN SOURCE FREE TO USE MADE BY IRFAN
 
-#PNFlabs
+# PNFlabs
 Created by Irfan.
 
-#Download at gofile:
+# Download at gofile:
 https://gofile.io/d/ysONVI
